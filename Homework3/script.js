@@ -1,7 +1,7 @@
 import { Employee } from "./models/Employee.js";
 import { Manager } from "./models/Manager.js";
 import { Order } from "./models/Order.js";
-import { Product } from "./models/Pruduct.js";
+import { Product } from "./models/Product.js";
 import { Student } from "./models/Student.js";
 
 
